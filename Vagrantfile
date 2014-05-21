@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 # -*- mode: ruby -*-
 # vi: set ft=ruby :
+# edit by yanfei.zhang
 current_dir = File.dirname(__FILE__)
 cookbook_testers = {
   "base" => {
